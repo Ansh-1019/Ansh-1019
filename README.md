@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 Developer | Problem Solver ⚡ AI • Machine Learning 🚁 Building autonomous systems & smart applications 📌 Turning ideas into scalable tech
+👨‍💻 Developer | Problem Solver 
+⚡ AI • Machine Learning 
+🚁 Building autonomous systems & smart applications 
+📌 Turning ideas into scalable tech
 
 
 ## 🌐 Socials:
